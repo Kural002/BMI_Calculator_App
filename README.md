@@ -1,16 +1,32 @@
-# bmi_calculator
+# Vitality BMI Calculator
 
-A new Flutter project.
+A modern, beautifully designed BMI calculator app built with Flutter using MVVM architecture and Provider for state management.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Modern UI Design** with gradient background and neumorphic cards
+- **Visual BMI Gauge** showing your BMI in a circular progress indicator
+- **Gender Selection** with visual feedback
+- **Interactive Sliders** for height, weight, and age inputs
+- **Fully Responsive** layout that works on mobile and web
+- **BMI Result Visualization** with color-coded status
+- **State Management** with Provider pattern
+- **Clean Architecture** following MVVM principles
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Frontend:**
+- **Flutter** - Cross-platform framework
+- **Dart** - Programming language
+
+**Architecture & State Management:**
+- **MVVM Architecture** (Model-View-ViewModel)
+- **Provider** (v6.1.1) - State management solution
+
+**UI Components:**
+- Custom neumorphic cards
+- Gradient buttons
+- Circular progress gauge
+- Interactive sliders with numeric display
+
